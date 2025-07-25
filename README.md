@@ -7,5 +7,6 @@
 🎟️ Seat booking with category-based pricing (Gold / Premium) 
 💳 Ticket summary and total pricing 
 📒 User dashboard showing all bookings in the session 
-📃 Static pages: About, Services, Contact ⚙️ Simple in-memory storage for users and bookings
+📃 Static pages: About, Services, Contact 
+⚙️ Simple in-memory storage for users and bookings
 📱 Responsive front-end ready (assuming templates and CSS are styled accordingly)
