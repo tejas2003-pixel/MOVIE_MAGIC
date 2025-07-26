@@ -7,7 +7,7 @@ AWS_REGION = 'us-east-1'
 USERS_TABLE = 'movie_magic_user'
 SERVICES_TABLE = 'movie_magic_server'
 BOOKINGS_TABLE = 'movie_magic_booking'  # 🔸 Booking table added"
-SNS_TOPIC_ARN = "arn:aws:sns:us-east-1:324037304857:movie_magic_topic"
+SNS_TOPIC_ARN = "arn:aws:sns:us-east-1:311141554074:movie_magic_topic"
 
 dynamodb = boto3.resource('dynamodb', region_name=AWS_REGION)
 sns_client = boto3.client('sns', region_name=AWS_REGION)
